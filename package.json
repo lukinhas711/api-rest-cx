@@ -2,7 +2,11 @@
   "name": "api-rest-cr",
   "version": "1.0.0",
   "description": "",
+  "private": "false",
   "main": "index.js",
+  "engine": {
+    "node": "17.x"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
