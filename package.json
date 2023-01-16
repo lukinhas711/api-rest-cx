@@ -1,0 +1,20 @@
+{
+  "name": "api-rest-cr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukinhas711/api-rest-cx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukinhas711/api-rest-cx/issues"
+  },
+  "homepage": "https://github.com/lukinhas711/api-rest-cx#readme"
+}
